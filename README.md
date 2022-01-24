@@ -2,6 +2,14 @@
 
 My name is Khadijat and I am a Junior Full Stack Developer based in London. I enjoy working on both the frontend and backend of an application, as I like seeing how everything comes together, but I am particularly fond of design.
 
+Some of the technologies I have worked with include:
+- HTML
+- CSS/SASS
+- JavaScript
+- React
+- Java
+- SQL
+
 <!--
 **Khadijat98/Khadijat98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
