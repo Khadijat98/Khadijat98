@@ -13,7 +13,7 @@ Some of the technologies I have worked with include:
 My projects:
 - :abacus: <a href="https://github.com/Khadijat98/calculator-challenge">Calculator</a>: A simple JS graphical calculator
 - :pencil2: <a href="https://github.com/Khadijat98/tic-tac-toe">Tic Tac Toe</a>: A school-inspired JS-based game of Tic Tac Toe
-- :calling: <a href="https://github.com/Khadijat98/morse-code-translator">: Morse Code Translator</a> A test-driven JS-based morse code translator
+- :calling: <a href="https://github.com/Khadijat98/morse-code-translator">Morse Code Translator</a>: A test-driven JS-based morse code translator
 - :beers: <a href="https://github.com/Khadijat98/punk-api">Punk API</a>: A React application using BrewDog's Punk API
 - :musical_note: <a href="https://github.com/Khadijat98/playlist-client">Borahae Playlists</a>: A full-stack BTS-inspired playlist application made with React, Java and SQL
 
