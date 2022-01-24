@@ -10,6 +10,17 @@ Some of the technologies I have worked with include:
 - Java
 - SQL
 
+My projects:
+- <a href="https://github.com/Khadijat98/calculator-challenge">Calculator</a>
+- <a href="https://github.com/Khadijat98/tic-tac-toe">Tic Tac Toe</a>
+- <a href="https://github.com/Khadijat98/morse-code-translator">Morse Code Translator</a>
+- <a href="https://github.com/Khadijat98/punk-api">Punk API</a>
+
+-------------------------------------------------------------------------------
+- 😄 Pronouns: She/Her
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/khadijat-oyeleye-726a2216a/">My LinkedIn</a>
+- ⚡ Fun fact: I have a purple belt in Jiu Jitsu!
+
 <!--
 **Khadijat98/Khadijat98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
