@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! 👋
 
 My name is Khadijat and I am a Junior Full Stack Developer based in London. I enjoy working on both the front-end and back-end of an application, as I like seeing how everything comes together, but I am particularly fond of design.
 
