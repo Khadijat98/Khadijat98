@@ -20,7 +20,7 @@ My name is Khadijat and I am a Junior Full Stack Developer :woman_technologist: 
 - :calling: <a href="https://github.com/Khadijat98/morse-code-translator">Morse Code Translator</a>: A test-driven JS-based morse code translator
 - :beers: <a href="https://github.com/Khadijat98/punk-api">Punk API</a>: A React application using BrewDog's Punk API
 - :musical_score: <a href="https://github.com/nology-tech/oae-event-cms">OAE Event CMS</a>: A content management system created as a group for our client, the Orchestra of the Age of Enlightenment
-- :musical_note: <a href="https://github.com/Khadijat98/playlist-client">Borahae Playlists</a>: A full-stack BTS-inspired playlist application made with React, Java and SQL
+- :musical_note: <a href="https://github.com/Khadijat98/playlist-client">Borahae Playlists</a>: A full-stack playlist application inspired by my love for BTS, made with React, Java and SQL
 
 ### Trivia
 - ⚡ Fun fact: I have a purple belt in Jiu Jitsu :martial_arts_uniform:!
