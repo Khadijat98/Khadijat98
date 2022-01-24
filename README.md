@@ -11,11 +11,11 @@ Some of the technologies I have worked with include:
 - SQL
 
 My projects:
-- <a href="https://github.com/Khadijat98/calculator-challenge">Calculator</a>: A simple JS graphical calculator
-- <a href="https://github.com/Khadijat98/tic-tac-toe">Tic Tac Toe</a> A school-inspired JS-based game of Tic Tac Toe
-- <a href="https://github.com/Khadijat98/morse-code-translator">Morse Code Translator</a> A test-driven JS-based morse code translator
-- <a href="https://github.com/Khadijat98/punk-api">Punk API</a> A React application using BrewDog's Punk API
-- <a href="https://github.com/Khadijat98/playlist-client">Borahae Playlists</a> A full-stack playlist application made with React, Java and SQL
+- :abacus: <a href="https://github.com/Khadijat98/calculator-challenge">Calculator</a>: A simple JS graphical calculator
+- :pencil2: <a href="https://github.com/Khadijat98/tic-tac-toe">Tic Tac Toe</a>: A school-inspired JS-based game of Tic Tac Toe
+- :calling: <a href="https://github.com/Khadijat98/morse-code-translator">: Morse Code Translator</a> A test-driven JS-based morse code translator
+- :beers: <a href="https://github.com/Khadijat98/punk-api">Punk API</a>: A React application using BrewDog's Punk API
+- :musical_note: <a href="https://github.com/Khadijat98/playlist-client">Borahae Playlists</a>: A full-stack BTS-inspired playlist application made with React, Java and SQL
 
 -------------------------------------------------------------------------------
 - 😄 Pronouns: She/Her
@@ -32,7 +32,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
