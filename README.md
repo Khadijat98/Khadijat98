@@ -19,5 +19,5 @@ My projects:
 
 -------------------------------------------------------------------------------
 - 😄 Pronouns: She/Her
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/khadijat-oyeleye-726a2216a/">My LinkedIn</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/khadijat-oyeleye-726a2216a/">My LinkedIn Profile</a>
 - ⚡ Fun fact: I have a purple belt in Jiu Jitsu!
