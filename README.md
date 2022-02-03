@@ -12,7 +12,7 @@ My name is **Khadijat** and I am a **Junior Full Stack Developer** :woman_techno
 - React
 - Java
 - Spring Boot
-- SQL
+- MySQL
 
 ### My projects :books::
 - :abacus: <a href="https://github.com/Khadijat98/calculator-challenge">Calculator</a>: A simple JS graphical calculator
